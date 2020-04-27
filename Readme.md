@@ -1,4 +1,4 @@
-#The instruction to setup a virtual environment
+**The instruction to setup a virtual environment**
 
 We usually work on different projects with different libraries,
 even with different versions of same libraries. Therefore, we should 
